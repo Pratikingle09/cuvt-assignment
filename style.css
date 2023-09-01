@@ -1,0 +1,118 @@
+.container {
+  background-color: #ffcd9e;
+  padding: 6%;
+}
+.h {
+  color: #282828;
+  font-size: 36px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 54px;
+  word-wrap: break-word;
+}
+.image {
+  display: inline-flex;
+  height: 575px;
+  padding: 0px 89.61px 100px 91.87px;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  width: 393.52px;
+  height: 442.45px;
+  flex-shrink: 0;
+  float: right;
+}
+
+.c1 {
+  color: #484848;
+  font-size: 20px;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 32px;
+  word-wrap: break-word;
+}
+.c2 {
+  color: #282828;
+  font-size: 20px;
+  font-family: Inter;
+  font-weight: 800;
+  line-height: 32px;
+  word-wrap: break-word;
+}
+.c3 {
+  color: white;
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 25.6px;
+  word-wrap: break-word;
+  margin-left: 20px;
+}
+input {
+  display: flex;
+  width: 300px;
+  padding: 8px;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: #888;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%; /* 32px */
+  border-radius: 5px;
+}
+button {
+  display: flex;
+  width: 216px;
+  padding: 8px;
+  flex-direction: row;
+  justify-content: center;
+  flex-shrink: 0;
+  color: #fff;
+  text-align: center;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%;
+  background-color: black;
+  border-radius: 5px;
+}
+footer {
+  background-color: black;
+  margin-bottom: 0px;
+  padding-bottom: 25px;
+}
+.list-main {
+  display: flex;
+  text-justify: auto;
+  justify-content: space-between;
+  color: white;
+}
+.l1{
+  color: #FFF;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%; /* 32px */ 
+  list-style: none;
+  margin-left: 40px;
+}
+.l2{
+  color: #FFF;
+text-align: right;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; /* 32px */ 
+  list-style: none;
+  margin-left: 425px;
+}
+.sub{
+  display: flex;
+  gap: 10px;
+}
